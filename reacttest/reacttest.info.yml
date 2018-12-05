@@ -1,0 +1,5 @@
+name: 'reacttest'
+type: module
+description: 'My awesome react module'
+core: 8.x
+package: 'Custom'

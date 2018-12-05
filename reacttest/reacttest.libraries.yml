@@ -1,0 +1,6 @@
+default:
+  js:
+    js/gear/build/app.js: {}
+  dependencies:
+    - core/jquery.once
+    - core/drupal
